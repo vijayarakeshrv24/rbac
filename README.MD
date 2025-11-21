@@ -275,8 +275,3 @@ GET /api/todos
 
 ---
 
-
-
-# 🎉 Thank You!
-
-I
